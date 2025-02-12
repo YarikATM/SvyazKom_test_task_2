@@ -1,0 +1,4 @@
+aiohttp==3.11.12
+asyncpg==0.30.0
+pydantic_settings==2.7.1
+apscheduler==3.11.0
