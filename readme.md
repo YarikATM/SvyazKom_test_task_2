@@ -1,6 +1,13 @@
- Для запуска переименовать:
- fastapi/env.example -> fastapi/.env
- app/env.example -> app/.env
+ Для запуска:
+ 1. переименовать:
+    ```fastapi/env.example -> fastapi/.env```
+    ```app/env.example -> app/.env```
+ 2. Запустить:
+    ```commandline 
+    docker compose build
+    docker compose up -d
+    ```
+     
  
 
 
